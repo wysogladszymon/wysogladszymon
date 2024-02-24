@@ -4,6 +4,7 @@
 
 📫 You can reach me **wysogladszymon@gmail.com**<br/>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wysogladszymon&layout=donut" />
 
 <h2 align="left">I code with:</h3>
 <p align="left"> 
