@@ -4,6 +4,7 @@
 
 📫 You can reach me **wysogladszymon@gmail.com**<br/>
 
+📘 I am currently learning Django and React Native. 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wysogladszymon&layout=donut" />
 
 <h2 align="left">I code with:</h3>
