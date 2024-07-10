@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm Szymon</h1>
 📚 I'm currently studying Automatics and Robotics at AGH The University of Science and Technology in Cracow. <br/>
-🌱 Coding is one of my passions and I'm incessantly improving my skills. 
+🌱 Coding is one of my passions and I'm incessantly improving my skills. <br/>
 🤖 I love robotics so I try to combine them with intelligent algorithms, because I would love to become deeplerning engineer. <br/>
 
 📫 You can reach me **wysogladszymon@gmail.com**<br/>
