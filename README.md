@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Szymon</h1>
-:computer: Feel free to visit  <a href='https://wysogladszymon.github.io/sw/' target='blank'>my website</a> :computer:
+:computer: Feel free to visit  <a href='https://wysogladszymon.github.io/sw/' target='_blank'>my website</a> :computer:
 <br/><br/>
 
 
